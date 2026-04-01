@@ -1,6 +1,7 @@
 # e-court
 A web scrapper which is made to work in commandline from TN e-courts
-
+## Requirements
+Python> 3.11
 ## How to use
 1. Run the Check_CNR
     - This will return your details + whether it is today, tomorrow, or neither.
